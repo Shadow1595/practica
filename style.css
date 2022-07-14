@@ -1,0 +1,11 @@
+.boton{
+    color: rgba(158, 26, 175, 0.966);
+    background: rgb(255, 255, 255);
+    border: 2px solid purple;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 15%;
+    height: 60px;
+    text-decoration: none;
+    
+}
